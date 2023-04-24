@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="800"
+   height="800"
+   viewBox="0 0 800 800"
+   sodipodi:docname="progress_bars.eps"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="ink_ext_XXXXXX"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,800)">
+    <g
+       id="g10"
+       transform="scale(0.1)">
+      <path
+         d="M 0,0 H 6000 V 6000 H 0 V 0"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path12" />
+      <path
+         d="M 5270,4100 H 730 c -215.391,0 -390,174.61 -390,390 v 0 c 0,215.39 174.609,390 390,390 h 4540 c 215.39,0 390,-174.61 390,-390 v 0 c 0,-215.39 -174.61,-390 -390,-390"
+         style="fill:#ced7df;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path14" />
+      <path
+         d="m 5580,4490 c 0,-170.9 -139.1,-310 -310,-310 h -722 v 620 h 722 c 170.9,0 310,-139.1 310,-310"
+         style="fill:#4ec074;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path16" />
+      <path
+         d="M 4548,4800 V 4180 H 3516 v 620 h 1032"
+         style="fill:#3fa98b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path18" />
+      <path
+         d="M 3516,4800 V 4180 H 2484 v 620 h 1032"
+         style="fill:#fabe18;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path20" />
+      <path
+         d="M 2484,4800 V 4180 H 1452 v 620 h 1032"
+         style="fill:#f35d4b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path22" />
+      <path
+         d="M 1452,4800 V 4180 H 730 c -170.898,0 -310,139.1 -310,310 0,170.9 139.102,310 310,310 h 722"
+         style="fill:#dc2955;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path24" />
+      <path
+         d="m 1370,5620 v -400 c 0,-55.2 -44.8,-100 -100,-100 H 1110 L 997.695,4983.1 c -14.394,-17.5 -40.996,-17.5 -55.39,0 L 830,5120 H 670 c -55.195,0 -100,44.8 -100,100 v 400 c 0,55.2 44.805,100 100,100 h 600 c 55.2,0 100,-44.8 100,-100"
+         style="fill:#dc2955;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path26" />
+      <g
+         id="g28"
+         transform="scale(10)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,64.8164,529.037)"
+           style="font-variant:normal;font-weight:900;font-size:22.1814px;font-family:SFPro;-inkscape-font-specification:SFPro-Black;writing-mode:lr-tb;fill:#111629;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 14.578099 31.734398 48.89069"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">POOR</tspan></text>
+      </g>
+      <g
+         id="g34"
+         transform="scale(10)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-0.99959017,69.8164,550.541)"
+           style="font-variant:normal;font-weight:normal;font-size:7.50981px;font-family:SFPro;-inkscape-font-specification:SFPro-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text38"><tspan
+             x="0 4.195313 9.688467 14.91699 19.416006 20.956047 25.411133 30.563473 36.056633 40.555656 44.703121 46.243156 47.929676 52.38475"
+             y="0"
+             sodipodi:role="line"
+             id="tspan36">YOUR SCORE IS:</tspan></text>
+      </g>
+      <path
+         d="M 5270,2190 H 730 c -215.391,0 -390,174.61 -390,390 v 0 c 0,215.39 174.609,390 390,390 h 4540 c 215.39,0 390,-174.61 390,-390 v 0 c 0,-215.39 -174.61,-390 -390,-390"
+         style="fill:#ced7df;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path40" />
+      <path
+         d="m 5580,2580 c 0,-170.9 -139.1,-310 -310,-310 h -722 v 620 h 722 c 170.9,0 310,-139.1 310,-310"
+         style="fill:#4ec074;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path42" />
+      <path
+         d="M 4548,2890 V 2270 H 3516 v 620 h 1032"
+         style="fill:#3fa98b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path44" />
+      <path
+         d="M 3516,2890 V 2270 H 2484 v 620 h 1032"
+         style="fill:#fabe18;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path46" />
+      <path
+         d="M 2484,2890 V 2270 H 1452 v 620 h 1032"
+         style="fill:#f35d4b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path48" />
+      <path
+         d="M 1452,2890 V 2270 H 730 c -170.898,0 -310,139.1 -310,310 0,170.9 139.102,310 310,310 h 722"
+         style="fill:#dc2955;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path50" />
+      <path
+         d="m 3400,3710 v -400 c 0,-55.2 -44.8,-100 -100,-100 h -160 l -112.3,-136.9 c -14.4,-17.5 -41,-17.5 -55.4,0 L 2860,3210 h -160 c -55.2,0 -100,44.8 -100,100 v 400 c 0,55.2 44.8,100 100,100 h 600 c 55.2,0 100,-44.8 100,-100"
+         style="fill:#fabe18;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path52" />
+      <g
+         id="g54"
+         transform="scale(10)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,274.813,338.037)"
+           style="font-variant:normal;font-weight:900;font-size:22.1814px;font-family:SFPro;-inkscape-font-specification:SFPro-Black;writing-mode:lr-tb;fill:#111629;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text58"><tspan
+             x="0 11.524402 28.138271 34.897053"
+             y="0"
+             sodipodi:role="line"
+             id="tspan56">FAIR</tspan></text>
+      </g>
+      <g
+         id="g60"
+         transform="scale(10)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-0.99959017,272.816,359.541)"
+           style="font-variant:normal;font-weight:normal;font-size:7.50981px;font-family:SFPro;-inkscape-font-specification:SFPro-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 4.1953187 9.6884794 14.91699 19.416025 20.956072 25.411146 30.563484 36.056644 40.555656 44.703117 46.243168 47.929699 52.384773"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">YOUR SCORE IS:</tspan></text>
+      </g>
+      <path
+         d="m 4630,1800.03 v -400 c 0,-55.21 44.79,-100 100,-100 h 160 l 112.29,-136.91 c 14.41,-17.5 41.01,-17.5 55.41,0 l 112.3,136.91 h 160 c 55.2,0 100,44.79 100,100 v 400 c 0,55.19 -44.79,100 -100,100 h -600 c -55.2,0 -100,-44.81 -100,-100"
+         style="fill:#4ec074;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path66" />
+      <g
+         id="g68"
+         transform="scale(10)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,469.744,147.039)"
+           style="font-variant:normal;font-weight:900;font-size:22.1814px;font-family:SFPro;-inkscape-font-specification:SFPro-Black;writing-mode:lr-tb;fill:#111629;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 16.571312 33.727592 50.883873"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">GOOD</tspan></text>
+      </g>
+      <g
+         id="g74"
+         transform="scale(10)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-0.99959017,476.185,168.543)"
+           style="font-variant:normal;font-weight:normal;font-size:7.50981px;font-family:SFPro;-inkscape-font-specification:SFPro-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text78"><tspan
+             x="0 4.1953187 9.6885042 14.917039 19.416048 20.956097 25.411171 30.563534 36.056717 40.555729 44.703194 46.24324 47.929771 52.384846"
+             y="0"
+             sodipodi:role="line"
+             id="tspan76">YOUR SCORE IS:</tspan></text>
+      </g>
+      <path
+         d="M 5270,280 H 730 C 514.609,280 340,454.609 340,670 v 0 c 0,215.391 174.609,390 390,390 h 4540 c 215.39,0 390,-174.609 390,-390 v 0 c 0,-215.391 -174.61,-390 -390,-390"
+         style="fill:#ced7df;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path80" />
+      <path
+         d="m 5580,670 c 0,-170.898 -139.1,-310 -310,-310 h -722 v 620 h 722 c 170.9,0 310,-139.098 310,-310"
+         style="fill:#4ec074;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path82" />
+      <path
+         d="M 4548,980 V 360 H 3516 v 620 h 1032"
+         style="fill:#3fa98b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path84" />
+      <path
+         d="M 3516,980 V 360 H 2484 v 620 h 1032"
+         style="fill:#fabe18;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path86" />
+      <path
+         d="M 2484,980 V 360 H 1452 v 620 h 1032"
+         style="fill:#f35d4b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path88" />
+      <path
+         d="M 1452,980 V 360 H 730 c -170.898,0 -310,139.102 -310,310 0,170.902 139.102,310 310,310 h 722"
+         style="fill:#dc2955;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path90" />
+    </g>
+  </g>
+</svg>
